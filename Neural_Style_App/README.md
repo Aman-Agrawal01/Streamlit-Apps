@@ -4,8 +4,8 @@ Created an app for Neural Style Transfer named [StylizeMe](https://stylizeme.str
 
 Also added a Python Notebook where Neural Style Transfer was performed on an image using GPU on Google Colab.
 
-Original Image $\qquad$ $\qquad$ Style Image $\qquad$ $\qquad$ New Image
+$\qquad$ $\qquad$ Original Image $\qquad$ $\qquad$ $\qquad$ $\qquad$ $\qquad$ Style Image $\qquad$ $\qquad$ $\qquad$ $\qquad$ $\qquad$ $\qquad$ New Image
 
 
-<img src="https://github.com/Aman-Agrawal01/Streamlit_Apps/blob/master/Neural_Style_App/original.jpg" width="128"/> $\qquad$ <img src="https://github.com/Aman-Agrawal01/Streamlit_Apps/blob/master/Neural_Style_App/style.jpg" width="128"/> $\qquad$ <img src="https://github.com/Aman-Agrawal01/Streamlit_Apps/blob/master/Neural_Style_App/generated.png" width="128"/>
+<img src="https://github.com/Aman-Agrawal01/Streamlit_Apps/blob/master/Neural_Style_App/original.jpg" width="256"/> $\qquad$ <img src="https://github.com/Aman-Agrawal01/Streamlit_Apps/blob/master/Neural_Style_App/style.jpg" width="256"/> $\qquad$ <img src="https://github.com/Aman-Agrawal01/Streamlit_Apps/blob/master/Neural_Style_App/generated.png" width="256"/>
 
